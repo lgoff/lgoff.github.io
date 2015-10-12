@@ -1,3 +1,6 @@
 [submodule "MADlibs"]
 	path = MADlibs
 	url = https://github.com/lgoff/MADlibs.git
+[submodule "WYR"]
+	path = WYR
+	url = https://github.com/lgoff/WYR.git
