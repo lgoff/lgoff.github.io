@@ -4,3 +4,6 @@
 [submodule "WYR"]
 	path = WYR
 	url = https://github.com/lgoff/WYR.git
+[submodule "ThisOrThat"]
+	path = ThisOrThat
+	url = https://github.com/lgoff/ThisOrThat.git
