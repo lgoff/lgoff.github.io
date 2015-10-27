@@ -1,0 +1,39 @@
+body {
+    /* padding-top: 70px;*/
+    padding: 30px;
+}
+
+
+/* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+.row {
+	padding: 40px;
+}
+
+.number {
+    width: 100px;
+    height: 100px;
+    font-size: 75px;
+    font-weight: bold;
+    background-color: #461326;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+}
+
+a {
+    font-size: 34px;
+    font-weight: bold;
+    color: #303030;
+    text-decoration: none;
+}
+
+a:active,
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
