@@ -7,3 +7,6 @@
 [submodule "ThisOrThat"]
 	path = ThisOrThat
 	url = https://github.com/lgoff/ThisOrThat.git
+[submodule "jqueryFAQ"]
+	path = jqueryFAQ
+	url = https://github.com/lgoff/jqueryFAQ.git
