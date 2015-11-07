@@ -10,6 +10,3 @@
 [submodule "jqueryFAQ"]
 	path = jqueryFAQ
 	url = https://github.com/lgoff/jqueryFAQ.git
-[submodule "LGslider"]
-	path = LGslider
-	url = https://github.com/lgoff/LGslider.git
