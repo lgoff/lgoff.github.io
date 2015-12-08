@@ -13,3 +13,6 @@
 [submodule "LGslider"]
 	path = LGslider
 	url = https://github.com/lgoff/LGslider.git
+[submodule "SliderLightbox"]
+	path = SliderLightbox
+	url = https://github.com/lgoff/SliderLightbox.git
