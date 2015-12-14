@@ -16,3 +16,6 @@
 [submodule "SliderLightbox"]
 	path = SliderLightbox
 	url = https://github.com/lgoff/SliderLightbox.git
+[submodule "keyboard"]
+	path = keyboard
+	url = https://github.com/lgoff/keyboard.git
